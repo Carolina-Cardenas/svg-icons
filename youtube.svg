@@ -1,0 +1,6 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <path fill="#c4302b" stroke="none"
+ d=" M 0,15 C0,0 0,0 25,0 50,0 50,0 50,15 50,30 50,30 25,30 0,30 0,30 0,15">
+ </path>
+<polygon points="20,7 20,23 035,15" fill="white" />
+</svg>
